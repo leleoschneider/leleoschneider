@@ -24,6 +24,8 @@ Olá! Sou Técnico em Desenvolvimento de Sistemas e atualmente estudante de **Ba
 
 Nas horas vagas, sou estrategista em jogos de cartas (Magic: The Gathering, Yu-Gi-Oh!) e RPGs.
 
+---
+
 **[EN]**
 Hello! I hold a Technical degree in Systems Development and I am currently pursuing a **Bachelor's degree in Information Technology**. My main focus is **Front End** development, building functional and responsive interfaces. I am consistently improving my skills, currently diving deep into the **Angular** ecosystem.
 
@@ -55,19 +57,4 @@ In my free time, I am a strategy enthusiast in card games (Magic: The Gathering,
 <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
-</div>
-
----
-
-### Estatísticas / Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoschneiderr&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoschneiderr&layout=compact&theme=gotham"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&text=&fontSize=90" />
 </div>
